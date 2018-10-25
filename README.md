@@ -1,2 +1,3 @@
 # testFile
 TestFile
+just test
